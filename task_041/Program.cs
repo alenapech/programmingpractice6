@@ -17,9 +17,6 @@ for (int i = 0; i < number; i++)
         Console.Write(Array[i] + "\t"); 
     }
 
-   //int count = 0;
-   //if(Array[i] > 0) count = count+1;
-   
     Console.WriteLine("_____________________");
     Console.WriteLine($"Вы ввели {count} положительных(ое) чисел(ла)");
  
