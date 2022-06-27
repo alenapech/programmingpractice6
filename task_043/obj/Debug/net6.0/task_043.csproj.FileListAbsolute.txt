@@ -1,0 +1,15 @@
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\bin\Debug\net6.0\task_043.exe
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\bin\Debug\net6.0\task_043.deps.json
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\bin\Debug\net6.0\task_043.runtimeconfig.json
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\bin\Debug\net6.0\task_043.dll
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\bin\Debug\net6.0\task_043.pdb
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\obj\Debug\net6.0\task_043.csproj.AssemblyReference.cache
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\obj\Debug\net6.0\task_043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\obj\Debug\net6.0\task_043.AssemblyInfoInputs.cache
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\obj\Debug\net6.0\task_043.AssemblyInfo.cs
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\obj\Debug\net6.0\task_043.csproj.CoreCompileInputs.cache
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\obj\Debug\net6.0\task_043.dll
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\obj\Debug\net6.0\refint\task_043.dll
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\obj\Debug\net6.0\task_043.pdb
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\obj\Debug\net6.0\task_043.genruntimeconfig.cache
+C:\Projects\qa\Языки_программирования\programmingpractice6\task_043\obj\Debug\net6.0\ref\task_043.dll
